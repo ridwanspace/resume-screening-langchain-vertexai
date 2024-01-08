@@ -1,2 +1,3 @@
 .env
 .skilled-compass.json
+.faiss_index
