@@ -72,7 +72,7 @@ SERVICE_ACCOUNT = xxxxx.json
 ```bash
 streamlit run app.py
 ```
-Visit the provided URL in your browser to interact with the PDF chatbot.
+Visit the provided URL in your browser to interact with the Resume Screening Assistant.
 
 
 ### Cost
