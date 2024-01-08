@@ -1,13 +1,13 @@
 {
   "type": "service_account",
-  "project_id": "skilled-compass-218404",
-  "private_key_id": "8d1d4a726c6fb7602477c13fe1cc06dbf67abe8e",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEuwIBADANBgkqhkiG9w0BAQEFAASCBKUwggShAgEAAoIBAQDT7ZrymzPyANcr\n4U30RD75qs3ilo3DT6PbU6qdosMEhP0sUfGc9jphEComdlO2HNfY7tK4Zhb0O02H\nrt8QoxFNMP+RUokl3EQSXhqa9DTs9haHqthLc/uxh1q5ISM1Megkjb0ulCZ3QORU\nO4aI3wR+0gSJqXVKD83nwjcFj8VnkG/U7tD5SysSo2ZTxKk2BFChF2sgCR6GryfF\nXZz9Z+h+Ju3+rbcSWmJaHCFPMkZY40DvGxk7WsoY0Wd0+kKmka5fptCYw5F4STSO\ncqzhWU2f6mN4ejIHpLJsUgfNVXEaeErWiCUiTsm7cKPUBRt7jjxXxMvi3rS/xRt5\n6wHz2HwFAgMBAAECgf8jLs8Kd7mn83vFTSIj6zCJQlHrzBK82fvZ7YnloZ++oFVn\nhjMWW8pVUtmsiPhcw20SFpPlCQ3GfhHg9KcTm/7DUd8bwRgDsQ2b/wNrth8TN8eF\nvlcqL5cZYd8t3NJ7gk2HxAAkO3QnWB6P3VH4Zw3YAAXA1OEj6nvEffmkcrnS91pB\nzMG7blK1W2fla9qyeGiPO22sFH/4NvZD2ctNLgdQkbjmaEHPKeHUDnxqxx5q3U1d\niAYEhoBR2DUJQTNGHTj0T1iQws/kRHP98reVkFfopiqmCFBF2Vc7sDyc6l4V2ION\n8ldLcyCJm4WqkEaVLmwsNotJIBKFWJoBfcslBZECgYEA63QdeToNQtaSld6XOK73\nS4q6obeOb/RDuqgHWwz4NwkNnDOad2ueGFI3uRKUtXraF3jd0uVwG5SfYsUJntg8\nbXNF7T2Ep44d7WS1Ils3ZgGNhAeqiv0rGYCB8afTqIsLpcMK84PLfE0o/dV4zDvm\n7N+5KQNsugphcpor6TOOLHkCgYEA5mvyY5n4TcuLm7t9P6AziWzbWoyRvVTkTx53\nB8xzuoaUlDy9+ROjCtUPsK15NVabalYc0JTehUjjjO9qsrFVRojLgLf3XnQ7RZnF\nURsHPBzm9b3q/IsAcUX9cbIkiU7khIwyh4Gn6h6PkkZQbHwlxc6R3BqpC+YRmrUF\nk2oP0O0CgYBXqj8DEOM5HI0tcdgaCcMXhEqixaYp9ud0yvUaKIUOcLd5jhkYF6Cg\na5RFuy5VN62WCbGFwVlxW2/QpY5Ebzxof//sKfiHLjnkVpe+d/nzZ+aZ3wTXhRWU\nBC3dnOAIo+StTiZ4rnyIBm6Zu+6jFDaRwWa+Z4EG77CCq/ZneIOZ+QKBgQCkZmpX\nhBh0MQDXyQqQ5dU/fMp4rYiiJDqM9LiKeOYtNC44IaqNVuRiKyf5r5umYbebQ/tl\nGoI1aI7qFDv1aK7mF13S5e75lkZf31m4B2e/DQQAW1OYgfh72Sr9/tMwoHhM1daL\ndgd+8/UNsVtaO62bl0ncV607DxiKYBOtXOQR9QKBgF3q98fqUmAFrqYBd9ucGfMr\niWcB0Jlei8OouM+S3FJVYjFc3UrT0DVGSfqvXTEG2W+JfS1OKPYVLTOY0qPAlmgJ\n2pMKal0hY+7EHFfiPTUqLT5eQNpxyrOyCOZI204OuBi+38eF6XOA6AyT5slPeT1R\ncduwkCvkDugmzI0OPuwb\n-----END PRIVATE KEY-----\n",
-  "client_email": "vertex-ai-test@skilled-compass-218404.iam.gserviceaccount.com",
-  "client_id": "109620775058512370269",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/vertex-ai-test%40skilled-compass-218404.iam.gserviceaccount.com",
-  "universe_domain": "googleapis.com"
+  "project_id": "",
+  "private_key_id": "",
+  "private_key": "",
+  "client_email": "",
+  "client_id": "",
+  "auth_uri": "",
+  "token_uri": "",
+  "auth_provider_x509_cert_url": "",
+  "client_x509_cert_url": "",
+  "universe_domain": ""
 }
