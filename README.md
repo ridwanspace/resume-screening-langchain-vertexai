@@ -31,7 +31,7 @@ Given a knowledge base whose vectors are stored in a pinecone, the chatbot provi
 ![Screenshot2](./assets/screenshot3.png)
 
 ### Installation
-Follow the steps below to set up and run the PDF chatbot:
+Follow the steps below to set up and run the Resume Screening Assistant:
 
 #### 1. Clone the Repository
 
@@ -45,13 +45,7 @@ cd resume-screening-langchain-vertexai
 pip install -r requirements.txt
 ```
 
-#### 3. Create `.env` then fill them with your own credentials
-```bash
-PROJECT_ID = xxxxxxx
-SERVICE_ACCOUNT = xxxxx.json
-```
-
-#### 4. Put your service account json file into the root folder
+#### 3. Put your service account json file into the root folder
 ```json
 {
   "type": "service_account",
@@ -66,9 +60,13 @@ SERVICE_ACCOUNT = xxxxx.json
   "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/xxxxxxxxxxx.iam.gserviceaccount.com",
   "universe_domain": "googleapis.com"
 }
-
 ```
 
+#### 4. Create `.env` then fill them with your own credentials
+```bash
+PROJECT_ID = xxxxxxx
+SERVICE_ACCOUNT = xxxxx.json
+```
 
 #### 5. Run the App to screen the CVs/Resumes
 ```bash
